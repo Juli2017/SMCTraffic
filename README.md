@@ -6,12 +6,17 @@ link: https://juli2017.github.io/SMCTraffic/
 
 An estimated 54 percent of the respondents believe it is more difficult to get around the Bay Area than it was a year ago, the poll determined. That’s up sharply from the 37 percent who felt that way in 2015 and more than double the 25 percent with that assessment in 2014."  
 * SOURCE: 29 April 2016: <a href="http://www.mercurynews.com/2016/04/29/bay-area-traffic-ignites-backlash-against-boom-new-poll-suggests/">Bay Area traffic ignites backlash against boom, new poll suggests</a>  
+"Caltrain’s rush hour trains have never been more crowded, which isn’t just uncomfortable for riders — it also discourages potential commuters who instead drive along Peninsula highways, and makes rides more difficult for elderly passengers and riders with disabilities."
+* SOURCE: 3 April 2014: <a href="http://sf.streetsblog.org/2014/04/03/caltrain-crowding-to-worsen-even-with-longer-trains-in-2015/">Longer Trains May Be No Match for Growing Caltrain Crowds</a>  
+<a href="http://www.bayareaeconomy.org/report/the-case-for-a-second-transbay-transit-crossing/consequences-of-transbay-travel-constraints/">Consequences of Transbay Travel Constraints</a>
 
 <img src="./img/4CountiesWithLabels.jpg" />  
 
 San Mateo County is positioned between San Francisco to the north and Santa Clara County to the south.  Across San Francisco Bay to the east is Alameda County.  The large coastal portion of the County is separated from the inland portion by the Santa Cruz Mountains, which have limited roadways going west to east.  Access between the North and East Bay is limited by the four bridges: the Golden Gate Bridge going north out of San Francisco, the Bay Bridge is the the direct road between San Francisco and Oakland in Alameda County the San Mateo Bridge (Hwy 92) crossing the San Francisco Bay from San Mateo County to Alameda County, and the Dumbarton Bridge running from Menlo Park (very near the Facebook campus) east to Fremont in Alameda County.
 
-The traffic patterns are greatly impacted by the distance between where a person lives and where they work.  This in turn is affected by geographic variation in housing availability and affordabilty, preferences between urban and suburban living, and where the rapidly growing employers choose to locate their workers.  Proximity to large IT campuses can also impact local rent.  The current plans by Facebook in Menlo Park to expand its workforce and campus has brought these issues to the foreground.
+The rapid increase in jobs in the Bay Area has increased ridership on public transit systems to the point where ridership exceeds capacity on BART or CalTrain during peak commute times, making it a less attractive alternative to driving. 
+
+The traffic patterns are greatly impacted by the distance between where a person lives and where they work.  This in turn is affected by geographic variation in housing availability and affordabilty, preferences between urban and suburban living, and where the employers with rapidly growing workforces choose to locate their employees.  Proximity to large IT campuses can also impact local rent.  The current plans by Facebook in Menlo Park to expand its workforce and campus has brought these issues to the foreground.
 
 <img src="./img/SanMateoCounty.jpg" />  
 
@@ -36,6 +41,11 @@ The number of commuters between San Mateo County and Alamdea County is the only 
 
 
 # News Articles
+
+
+## 2013 
+* 17 January 2013: <a href="http://www.bart.gov/news/articles/2013/news20130117">Train strain: BART working on capacity issues as ridership rises to record levels</a>  
+
 ## 2015
 * 7 July 2015: <a href="http://kalw.org/post/what-facebooks-expansion-means-east-palo-alto">What Facebook's expansion means for East Palo Alto</a>  
 * 24 November 2015: <a href="http://www.sfgate.com/bayarea/article/Bay-Area-commute-analysis-Awful-ride-6647859.php">Bay Area commute’s ‘awful’ ride now stretches to before 5 a.m.</a>  
