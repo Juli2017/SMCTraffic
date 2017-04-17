@@ -1,5 +1,5 @@
-# San Mateo County Traffic Trends
-commute data between contiguous counties
+# San Mateo County Traffic Trends  
+
 link: https://juli2017.github.io/SMCTraffic/
 
 “'It’s harder to get around, and it is harder to find transportation access and also access to housing,' ...  
@@ -9,31 +9,29 @@ An estimated 54 percent of the respondents believe it is more difficult to get a
 
 <img src="./img/4CountiesWithLabels.jpg" />  
 
-San Mateo County is positioned between San Francisco to the north and Santa Clara County to the south.  Across San Francisco Bay to the east is Alameda County.
+San Mateo County is positioned between San Francisco to the north and Santa Clara County to the south.  Across San Francisco Bay to the east is Alameda County.  The large coastal portion of the County is separated from the inland portion by the Santa Cruz Mountains, which have limited roadways going west to east.  Access between the North and East Bay is limited by the four bridges: the Golden Gate Bridge going north out of San Francisco, the Bay Bridge is the the direct road between San Francisco and Oakland in Alameda County the San Mateo Bridge (Hwy 92) crossing the San Francisco Bay from San Mateo County to Alameda County, and the Dumbarton Bridge running from Menlo Park (very near the Facebook campus) east to Fremont in Alameda County.
 
 <img src="./img/SanMateoCounty.jpg" />  
 
-San Mateo County is positioned between San Francisco to the north and Santa Clara County to the south.  Across San Francisco Bay to the east is Alameda County.  
+Commute traffic for people who live and work in San Mateo County has increased significantly in the past two years, increasing by over 7,000.  
 
 <img src="./img/SanFranciscoCounty.jpg" />  
 
-San Mateo County is positioned between San Francisco to the north and Santa Clara County to the south.  Across San Francisco Bay to the east is Alameda County.  
+The number of commuters between San Mateo County and San Francisco County has been relatively stable over the past ten years, and shows a net commute of over 30,000 more people commuting to than from San Francisco County.  
 
 <img src="./img/SantaClaraCounty.jpg" />  
 
-San Mateo County is positioned between San Francisco to the north and Santa Clara County to the south.  Across San Francisco Bay to the east is Alameda County.  
+The number of commuters between San Mateo County and Santa Clara County has also been relatively stable over the past ten years, and the net commute of about 10,000 more people commuting to than from San Santa Clara County is much smaller than that for San Francisco County.  
  
 <img src="./img/AlamedaCounty.jpg" />   
 
-San Mateo County is positioned between San Francisco to the north and Santa Clara County to the south.  Across San Francisco Bay to the east is Alameda County.   
+The number of commuters between San Mateo County and Alamdea County is the only one that shows more workers commuting in that out.  This may reflect the difference in housing costs between the two counties, where Alameda County was considered a more affordable place to live relative to San Mateo County.  
 
 
-### Source: <a href="http://www.myvisajobs.com/H1B_Visa.aspx">H1B Data Website</a> 
-H1B Visa Reports were created based Labor Condition Applications (LCA) filed by U.S. employers in fiscal year(1 October-30 September). The number of LCA includes new, renewed, transferred and cap-exempt LCA. 
-### Data Source: <a href="https://docs.google.com/spreadsheets/d/1nIkE9t1UokLb5yhP8vmheDDZVKfZqf7UYTZZlx9lvXg/pubhtml">LCA Data Source</a>
-Work cities were selected for inclusion in the data set based on their rank and the presence of new IT employers during the 10 year period reported.
+### Source: American Community Survey Residence County to Workplace County Commuting Flows for the United States and Puerto Rico Sorted by Residence Geography
 
-Before the H-1B, H-1B1 or E-3 visa petition can be filed with USCIS, the employer must fill a Labor Condition Application(LCA) with the Department of Labor(DOL) through the iCERT Portal System no more than 6 months before the initial date of intended employment, demonstrating that it is paying the required wage for this position in the geographic region where the job is located. The employer may use a single LCA to request multiple positions where they are in the same visa category and job classification, and are either all part-time or all full-time positions.
+### Data Source: <a href="https://docs.google.com/spreadsheets/d/1dPI98w727Wwli4jj8yftZsu-LlRzzKLf5VOmeRKCO8w/edit#gid=842113511">County to County Commute Data Source</a>
+
 
 # News Articles
 ## 2016
@@ -43,4 +41,4 @@ Before the H-1B, H-1B1 or E-3 visa petition can be filed with USCIS, the employe
 
 
 
-* 28 November 2012: <a href="https://www.aol.com/article/2012/11/28/ceo-randy-adams-age-bias-silicon-valley/20390154/">Silicon Valley: Worst Place In America For Over-40 Workers?</a>
+* 24 November 2015: <a href="http://www.sfgate.com/bayarea/article/Bay-Area-commute-analysis-Awful-ride-6647859.php">Bay Area commute’s ‘awful’ ride now stretches to before 5 a.m.</a>
