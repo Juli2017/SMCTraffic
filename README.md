@@ -8,7 +8,7 @@ An estimated 54 percent of the respondents believe it is more difficult to get a
 
 "Caltrain’s rush hour trains have never been more crowded, which isn’t just uncomfortable for riders — it also discourages potential commuters who instead drive along Peninsula highways, and makes rides more difficult for elderly passengers and riders with disabilities."  SOURCE: 3 April 2014: <a href="http://sf.streetsblog.org/2014/04/03/caltrain-crowding-to-worsen-even-with-longer-trains-in-2015/">Longer Trains May Be No Match for Growing Caltrain Crowds</a>  
 
-<a href="http://www.bayareaeconomy.org/report/the-case-for-a-second-transbay-transit-crossing/consequences-of-transbay-travel-constraints/">Consequences of Transbay Travel Constraints</a>
+"Given the Bay Area’s housing market challenges, BART’s capacity to transport people between geographies with affordable housing and those with growing job markets has been a key to economic health and opportunity for many households." SOURCE: <a href="http://www.bayareaeconomy.org/report/the-case-for-a-second-transbay-transit-crossing/consequences-of-transbay-travel-constraints/">Consequences of Transbay Travel Constraints</a>
 
 <img src="./img/4CountiesWithLabels.jpg" />  
 
