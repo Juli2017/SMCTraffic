@@ -4,10 +4,10 @@ link: https://juli2017.github.io/SMCTraffic/
 
 “'It’s harder to get around, and it is harder to find transportation access and also access to housing,' ...  
 
-An estimated 54 percent of the respondents believe it is more difficult to get around the Bay Area than it was a year ago, the poll determined. That’s up sharply from the 37 percent who felt that way in 2015 and more than double the 25 percent with that assessment in 2014."  
-* SOURCE: 29 April 2016: <a href="http://www.mercurynews.com/2016/04/29/bay-area-traffic-ignites-backlash-against-boom-new-poll-suggests/">Bay Area traffic ignites backlash against boom, new poll suggests</a>  
-"Caltrain’s rush hour trains have never been more crowded, which isn’t just uncomfortable for riders — it also discourages potential commuters who instead drive along Peninsula highways, and makes rides more difficult for elderly passengers and riders with disabilities."
-* SOURCE: 3 April 2014: <a href="http://sf.streetsblog.org/2014/04/03/caltrain-crowding-to-worsen-even-with-longer-trains-in-2015/">Longer Trains May Be No Match for Growing Caltrain Crowds</a>  
+An estimated 54 percent of the respondents believe it is more difficult to get around the Bay Area than it was a year ago, the poll determined. That’s up sharply from the 37 percent who felt that way in 2015 and more than double the 25 percent with that assessment in 2014." SOURCE: 29 April 2016: <a href="http://www.mercurynews.com/2016/04/29/bay-area-traffic-ignites-backlash-against-boom-new-poll-suggests/">Bay Area traffic ignites backlash against boom, new poll suggests</a>   
+
+"Caltrain’s rush hour trains have never been more crowded, which isn’t just uncomfortable for riders — it also discourages potential commuters who instead drive along Peninsula highways, and makes rides more difficult for elderly passengers and riders with disabilities."  SOURCE: 3 April 2014: <a href="http://sf.streetsblog.org/2014/04/03/caltrain-crowding-to-worsen-even-with-longer-trains-in-2015/">Longer Trains May Be No Match for Growing Caltrain Crowds</a>  
+
 <a href="http://www.bayareaeconomy.org/report/the-case-for-a-second-transbay-transit-crossing/consequences-of-transbay-travel-constraints/">Consequences of Transbay Travel Constraints</a>
 
 <img src="./img/4CountiesWithLabels.jpg" />  
