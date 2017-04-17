@@ -15,7 +15,7 @@ The traffic patterns are greatly impacted by the distance between where a person
 
 <img src="./img/SanMateoCounty.jpg" />  
 
-Commute traffic for people who live and work in San Mateo County has increased significantly in the past two years, increasing by over 7,000 workers.  
+Commute traffic for people who live and work in San Mateo County has increased significantly in the past two years, increasing by over 7,000 workers between 2010 and 2013.  
 
 <img src="./img/SanFranciscoCounty.jpg" />  
 
@@ -43,10 +43,10 @@ The number of commuters between San Mateo County and Alamdea County is the only 
 
 ## 2016  
 * 3 June 2016: <a href="http://www.bizjournals.com/sanfrancisco/blog/2016/06/caltrain-hits-new-ridership-record-for-sixth-year.html">Caltrain hits new ridership record for sixth year in a row</a>
-* 13 June 2016: <a href="http://sf.streetsblog.org/2016/06/13/why-are-more-facebook-workers-driving-to-the-office/">BWhy are More Facebook Workers Driving to the Office?</a>  
+* 13 June 2016: <a href="http://sf.streetsblog.org/2016/06/13/why-are-more-facebook-workers-driving-to-the-office/">Why are More Facebook Workers Driving to the Office?</a>  
 * 6 July 2016: <a href="https://www.paloaltoonline.com/square/2016/07/06/study-warns-facebook-expansion-would-affect-traffic">Facebook expansion traffic impacts</a>  
-* 3 October 2016: <a href="http://www.mercurynews.com/2016/10/03/bay-areas-10-worst-commutes-unveiled-no-3-is-a-surprise/">Bay Area’s 10 most congested freeways (No. 3 is a surprise)  </a>
-"Seven Silicon Valley freeways south of the San Mateo Bridge made the Top 10 list. But the 680/280 drive was the one that worsened so dramatically over a year."
+* 3 October 2016: <a href="http://www.mercurynews.com/2016/10/03/bay-areas-10-worst-commutes-unveiled-no-3-is-a-surprise/">Bay Area’s 10 most congested freeways (No. 3 is a surprise)  </a>  
+
 
 
 
