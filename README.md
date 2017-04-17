@@ -32,7 +32,7 @@ The number of commuters between San Mateo County and Santa Clara County has also
  
 <img src="./img/AlamedaCounty.jpg" />   
 
-The number of commuters between San Mateo County and Alamdea County is the only one that shows more workers commuting in that out.  This may reflect the difference in housing costs between the two counties, where Alameda County was considered a more affordable place to live relative to San Mateo County.  Traffic congestion on the two bridges connecting Alameda and San Mateo counties has increased significantly in the past ten years (see News Articles Below).
+The number of commuters between San Mateo County and Alamdea County is the only one that shows more workers commuting in than out.  This may reflect the difference in housing costs between the two counties, where Alameda County was considered a more affordable place to live relative to San Mateo County.  Traffic congestion on the two bridges connecting Alameda and San Mateo counties has increased significantly in the past ten years (see News Articles Below).
 
 
 * Source: American Community Survey Residence County to Workplace County Commuting Flows for the United States and Puerto Rico Sorted by Residence Geography
