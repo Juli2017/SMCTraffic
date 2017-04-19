@@ -16,7 +16,7 @@ San Mateo County is positioned between San Francisco to the north and Santa Clar
 
 The rapid increase in jobs in the Bay Area has increased ridership on public transit systems to the point where ridership exceeds capacity on BART or CalTrain during peak commute times, making it a less attractive alternative to driving. 
 
-The traffic patterns are greatly impacted by the distance between where a person lives and where they work.  This in turn is affected by geographic variation in housing availability and affordabilty, preferences between urban and suburban living, and where the employers with rapidly growing workforces choose to locate their employees.  Proximity to large IT campuses can also impact local rent. The current plans by Facebook in Menlo Park to expand its workforce and campus has inspired a heated debate among San Mateo County residents regarding the sustainability of the current rate of high tech job growth.
+The traffic patterns are greatly impacted by the distance between where a person lives and where they work.  This in turn is affected by regional variation in housing availability and affordabilty, preferences between urban and suburban living, and where the employers with rapidly growing workforces choose to locate their employees.  Proximity to large IT campuses can also impact the quality of life for local residents. The current plans by Facebook in Menlo Park to expand its workforce and campus has inspired a heated debate within the county regarding the sustainability of unconstrained growth in high tech jobs when it is perceived as coming at the expense of other residents in the county.
 
 <img src="./img/SanMateoCounty.jpg" />  
 
