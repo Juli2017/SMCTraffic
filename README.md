@@ -55,7 +55,8 @@ The number of commuters between San Mateo County and Alamdea County is the only 
 * 6 July 2016: <a href="https://www.paloaltoonline.com/square/2016/07/06/study-warns-facebook-expansion-would-affect-traffic">Facebook expansion traffic impacts</a>  
 * 3 October 2016: <a href="http://www.mercurynews.com/2016/10/03/bay-areas-10-worst-commutes-unveiled-no-3-is-a-surprise/">Bay Area’s 10 most congested freeways (No. 3 is a surprise)  </a>  
 
-
+## 2018  
+* 27 April 2018: <a href="https://www.sfgate.com/traffic/article/Bay-Area-commute-San-Francisco-traffic-12861808.php">Stunning increase in Bay Area 'super commuters' in the last decade amid housing crisis</a>
 
 
 
