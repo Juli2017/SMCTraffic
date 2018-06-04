@@ -1,4 +1,4 @@
-Return to Main: https://juli2017.github.io/simple-page/
+<a href="https://juli2017.github.io/simple-page">Return To Main</a> 
 # San Mateo County Traffic Trends  
 
 link: https://juli2017.github.io/SMCTraffic/
